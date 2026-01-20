@@ -57,10 +57,11 @@ Key columns:
 ├── images/
 │   ├── dashboard_1.png
 │   ├── dashboard_2.png
+├── Ecommerce.csv
 ├── ecommerce.sql
-├── ecommerce_dashboard.pbix
 ├── main.ipynb
 ├── README.md
+├── ecommerce_dashboard.pbix
 ```
 
 ---
