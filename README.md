@@ -71,7 +71,7 @@ Key columns:
 
 
 1️⃣ Invalid Revenue Check
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Screenshot%20(101).png?raw=true)
+![image alt](C:\Users\Deep\OneDrive\Pictures\Screenshots\Screenshot (101).png)
 
 
 
