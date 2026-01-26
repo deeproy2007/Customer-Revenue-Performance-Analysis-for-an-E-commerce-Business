@@ -69,7 +69,7 @@ Key columns:
 ## 📊 SQL Analysis
 🧪 Data Quality Checks (SQL)
 1️⃣ Invalid Revenue Check
-![image alt]("https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/cc077072bd6e60c6a9d4f017e8652e77aa429818/Screenshot%20(101).png")
+![image alt][("https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/cc077072bd6e60c6a9d4f017e8652e77aa429818/Screenshot%20(101).png")]
 
 - Customer segmentation
 - Category and city-wise analysis
