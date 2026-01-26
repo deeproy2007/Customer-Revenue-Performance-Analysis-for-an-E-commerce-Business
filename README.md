@@ -67,7 +67,10 @@ Key columns:
 ---
 
 ## 📊 SQL Analysis
-- Revenue and sales trends
+🧪 Data Quality Checks (SQL)
+1️⃣ Invalid Revenue Check
+![image alt]("C:\Users\Deep\OneDrive\Pictures\Screenshots\Screenshot (101).png")
+
 - Customer segmentation
 - Category and city-wise analysis
 - Discount impact
