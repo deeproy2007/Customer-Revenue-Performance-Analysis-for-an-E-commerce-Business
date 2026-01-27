@@ -82,6 +82,17 @@ Key columns:
 
 Why this matters:
 Ensures no incorrect revenue values distort KPIs or growth analysis.
+
+2️⃣ Missing Critical Fields
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(102).png?raw=true)
+
+
+
+
+
+
+Why this matters:
+Missing dates break time analysis. Missing customers destroy retention analysis.
 - Customer segmentation
 - Category and city-wise analysis
 - Discount impact
