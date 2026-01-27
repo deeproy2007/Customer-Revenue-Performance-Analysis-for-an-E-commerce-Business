@@ -211,6 +211,25 @@ Key insights:
 - Sales show seasonal trends
 - Delivery performance affects customer satisfaction
 
+
+Where is our revenue actually coming from?
+
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/image3/Screenshot%20(96).png?raw=true)
+
+
+
+
+
+Which customer are valuable vs risky?
+
+
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/image3/Screenshot%20(97).png?raw=true)
+
+
+
+
+
+
 ---
 
 ## 🎯 Skills Demonstrated
