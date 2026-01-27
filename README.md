@@ -93,6 +93,28 @@ Ensures no incorrect revenue values distort KPIs or growth analysis.
 
 Why this matters:
 Missing dates break time analysis. Missing customers destroy retention analysis.
+📈 Revenue & Growth Analysis
+Month-over-Month Revenue Trend
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(108).png?raw=true)
+
+
+
+
+
+
+
+📌 Insight:
+Identifies growth volatility and detects seasonality or revenue drops early.
+🛒 Discount Effectiveness Analysis
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(109).png?raw=true)
+
+
+
+
+
+
+📌 Insight:
+Determines whether discounts increase order volume or just reduce profit margins.
 - Customer segmentation
 - Category and city-wise analysis
 - Discount impact
