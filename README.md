@@ -80,7 +80,8 @@ Key columns:
 
 
 
-
+Why this matters:
+Ensures no incorrect revenue values distort KPIs or growth analysis.
 - Customer segmentation
 - Category and city-wise analysis
 - Discount impact
