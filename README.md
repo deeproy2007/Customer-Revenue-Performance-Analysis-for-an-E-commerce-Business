@@ -122,6 +122,45 @@ Identifies growth volatility and detects seasonality or revenue drops early.
 
 📌 Insight:
 Determines whether discounts increase order volume or just reduce profit margins.
+
+
+🌍 City-Level Revenue Analysis
+
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(110).png?raw=true)
+
+
+
+
+
+📌 Insight:
+Identifies high-performing cities for targeted marketing and logistics optimization.
+
+
+👥 Customer Value Segmentation
+
+
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(111).png?raw=true)
+
+
+
+
+📌 Insight:
+Top 25% of customers contribute a disproportionate share of revenue — ideal for retention strategies.
+
+🚚 Delivery Time vs Customer Rating
+
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(112).png?raw=true)
+
+
+
+
+💳 Payment & Device Performance
+
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(113).png?raw=true)
+
+
+
+
 - Customer segmentation
 - Category and city-wise analysis
 - Discount impact
