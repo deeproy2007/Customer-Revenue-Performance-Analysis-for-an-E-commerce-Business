@@ -161,6 +161,22 @@ Top 25% of customers contribute a disproportionate share of revenue — ideal fo
 
 
 
+🔁 Returning vs New Customers
+
+ ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(114).png?raw=true)
+
+
+
+
+ 📊 Key KPIs Tracked
+
+
+ ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(120).png?raw=true)
+
+
+
+
+ 
 - Customer segmentation
 - Category and city-wise analysis
 - Discount impact
