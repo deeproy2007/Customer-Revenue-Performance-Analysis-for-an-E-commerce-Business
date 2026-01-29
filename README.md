@@ -185,31 +185,6 @@ Insights:
     Discounts reduce profit margin without strong revenue upside.
 
 
-🌍 Delivery time impacts
-
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(112).png?raw=true)
-
-
-
-
-
-Description:
-This analysis examines how delivery time impacts customer satisfaction by comparing:
-
-Delivery time (in days)
-
-Total number of orders
-
-Average customer rating
-
-Rating variability
-
-📌 Business Insights
-
-✅ Best delivery target: 3–6 days
-❌ Avoid extreme fast or very late deliveries
-📉 Long delivery times increase rating volatility
-📈 Consistent delivery improves customer trust
 
 
 💳 Revenue by Payment Method
@@ -274,6 +249,8 @@ Description:
     📉 Long delivery times increase rating volatility
     📈 Consistent delivery improves customer trust
     🔁 Returning vs New Customers Analysis
+🔁 Returning vs New Customers Analysis
+
 
 ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(114).png?raw=true)
 
