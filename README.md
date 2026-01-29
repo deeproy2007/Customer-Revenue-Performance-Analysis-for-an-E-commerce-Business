@@ -137,29 +137,29 @@ The MoM growth is calculated using:
 
 Key Insights:
 
-Revenue shows significant fluctuations, indicating seasonal or demand-based variation.
+     Revenue shows significant fluctuations, indicating seasonal or demand-based variation.
 
-Highest growth observed in:
+     Highest growth observed in:
+ 
+     May 2023 (+36.75%)
 
-May 2023 (+36.75%)
+     October 2023 (+34.15%)
 
-October 2023 (+34.15%)
+     Sharp declines seen in:
 
-Sharp declines seen in:
+     April 2023 (-20.01%)
 
-April 2023 (-20.01%)
+     September 2023 (-32.92%)
 
-September 2023 (-32.92%)
-
-Indicates inconsistent sales performance and possible dependency on promotions or seasonal demand.
+     Indicates inconsistent sales performance and possible dependency on promotions or seasonal demand.
 
 Business Value:
 
-Helps identify high-performing and low-performing months
+    Helps identify high-performing and low-performing months
 
-Useful for forecasting and budgeting
+    Useful for forecasting and budgeting
 
-Supports strategic planning and sales optimization
+    Supports strategic planning and sales optimization
 
 
 
@@ -210,16 +210,42 @@ Rating variability
 📈 Consistent delivery improves customer trust
 
 
-👥 Customer Value Segmentation
+💳 Revenue by Payment Method
 
 
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(111).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(113).png?raw=true)
 
 
 
 
-📌 Insight:
-Top 25% of customers contribute a disproportionate share of revenue — ideal for retention strategies.
+Description:
+This analysis shows revenue and order distribution across payment methods.
+
+Results:
+
+    Credit Card: ₹1.91M | 2,012 orders (Highest)
+
+    Debit Card: ₹1.25M | 1,265 orders
+
+    Digital Wallet: ₹963K | 965 orders
+
+    Bank Transfer: ₹551K | 510 orders
+
+    Cash on Delivery: ₹234K | 248 orders (Lowest)
+
+Insights:
+
+    Credit cards dominate both revenue and usage.
+
+    Digital payments significantly outperform cash-based methods.
+
+    COD users contribute the least revenue and volume.
+
+Business Impact:
+
+    Focus marketing offers on card & wallet users
+
+    Reduce COD dependency to improve payment success rate and logistics efficiency
 
 🚚 Delivery Time vs Customer Rating
 
@@ -228,20 +254,63 @@ Top 25% of customers contribute a disproportionate share of revenue — ideal fo
 
 
 
-💳 Payment & Device Performance
+🔁 Returning vs New Customers Analysis
 
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(113).png?raw=true)
-
-
-
-
-🔁 Returning vs New Customers
-
- ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(114).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(114).png?raw=true)
 
 
 
 
+Description:
+      This comparison evaluates customer loyalty and revenue contribution.
+
+Results:
+
+     Customer Type	Customers	Revenue	Revenue per Customer
+     New Customers	2,010	₹1.96M	₹978.87
+     Returning Customers	2,990	₹2.94M	₹985.96
+
+Insights:
+
+    Returning customers generate ~60% of total revenue
+
+    They also have higher revenue per customer
+
+    Loyalty directly impacts revenue stability
+
+Business Conclusion:
+     👉 Retention is more profitable than acquisition
+     👉 Loyalty programs and remarketing should be prioritized
+
+📊 Overall Business Summary
+
+ ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(116).png?raw=true)
+
+
+
+
+
+Key Metrics:
+
+    Total Revenue: ₹4.91M
+
+    Total Orders: 5,000
+
+    Total Customers: 5,000
+
+    Average Order Value: ₹983.11
+
+Final Insights:
+
+    Revenue is healthy but growth depends on:
+
+    Increasing repeat purchases
+
+    Optimizing discount strategy
+
+    Promoting digital payment methods
+
+    Data quality is clean and suitable for decision-making.
  📊 Key KPIs Tracked
 
 
@@ -249,10 +318,10 @@ Top 25% of customers contribute a disproportionate share of revenue — ideal fo
 
 
 
-
+Summary Statistics of Total Amount
+The above result shows the basic descriptive statistics calculated for the Total_Amount column. The minimum transaction value is 7.87, indicating the smallest recorded amount in the dataset. The maximum value reaches 22,023.90, highlighting the highest transaction observed. The average (mean) Total_Amount is approximately 983.11, which provides an overall measure of the typical transaction size. These summary statistics help in understanding the data range, identifying potential outliers, and gaining initial insights into the distribution of transaction values before further analysis.
  
 - Customer segmentation
-- Category and city-wise analysis
 - Discount impact
 - Window functions (RANK, NTILE, LAG)
 
@@ -272,6 +341,14 @@ Libraries used:
 ---
 
 ## 📈 Power BI Dashboard
+
+
+Dashboard Overview
+
+This project uses Power BI to analyze sales data and understand customer behavior, revenue distribution, and business performance. The dashboard highlights key metrics such as total sales, average order value, product category performance, customer demographics, and regional sales trends.
+
+The analysis shows that returning customers and the 26–45 age group contribute the majority of revenue, with Electronics emerging as the top-performing product category. Sales are concentrated in a few high-performing cities, and monthly trends indicate seasonal fluctuations.
+
 Dashboard includes:
 - Total Revenue & Orders
 - Category-wise sales
@@ -303,8 +380,31 @@ Which customer are valuable vs risky?
 
 
 
+🧠 Key Business Decisions & Recommendations
 
----
+    1. Focus on Returning Customers
+      Since returning customers generate the majority of revenue, businesses should:
+
+      Invest in loyalty programs and personalized offers
+
+      Improve post-purchase engagement to increase repeat orders
+
+    2. Target High-Value Age Groups (26–45)
+      Marketing campaigns should primarily target the 26–45 age segment, as they contribute the highest spending.
+
+    3. Strengthen Electronics Category
+      Electronics is the top revenue driver. The business can:
+
+      Ensure better inventory planning
+
+      Protect margins through optimized pricing strategies
+
+    4. Reduce Regional Dependency
+      Revenue is concentrated in a few cities. To reduce risk:
+
+      Expand marketing efforts in underperforming cities
+
+ ---
 
 ## 🎯 Skills Demonstrated
 - SQL & Data Analysis
