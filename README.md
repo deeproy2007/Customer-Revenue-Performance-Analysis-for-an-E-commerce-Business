@@ -110,6 +110,9 @@ The result shows 0 missing records, meaning the dataset is complete.
 
 📈 Revenue & Growth Analysis
 Month-over-Month Revenue Trend
+
+
+
 ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(108).png?raw=true)
 
 
@@ -168,20 +171,43 @@ Supports strategic planning and sales optimization
 
 
 
-📌 Insight:
-Determines whether discounts increase order volume or just reduce profit margins.
+Description:
+This analysis compares order volume and revenue performance between discounted and non-discounted purchases.
+
+Insights:
+
+Discounted orders generate lower total revenue despite higher volume expectations.
+
+Revenue per order is almost the same, meaning discounts do NOT significantly increase basket size.
+
+Discounts reduce profit margin without strong revenue upside.
 
 
-🌍 City-Level Revenue Analysis
+🌍 Delivery time impacts
 
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(110).png?raw=true)
-
-
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(112).png?raw=true)
 
 
 
-📌 Insight:
-Identifies high-performing cities for targeted marketing and logistics optimization.
+
+
+Description:
+This analysis examines how delivery time impacts customer satisfaction by comparing:
+
+Delivery time (in days)
+
+Total number of orders
+
+Average customer rating
+
+Rating variability
+
+📌 Business Insights
+
+✅ Best delivery target: 3–6 days
+❌ Avoid extreme fast or very late deliveries
+📉 Long delivery times increase rating volatility
+📈 Consistent delivery improves customer trust
 
 
 👥 Customer Value Segmentation
