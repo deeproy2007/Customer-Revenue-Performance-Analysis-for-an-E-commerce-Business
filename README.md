@@ -255,8 +255,25 @@ Business Impact:
 
 
 
+Description:
 
-🔁 Returning vs New Customers Analysis
+    This analysis examines how delivery time impacts customer satisfaction by comparing:
+
+    Delivery time (in days)
+
+    Total number of orders
+   
+    Average customer rating
+
+    Rating variability
+
+📌 Business Insights
+
+    ✅ Best delivery target: 3–6 days
+    ❌ Avoid extreme fast or very late deliveries
+    📉 Long delivery times increase rating volatility
+    📈 Consistent delivery improves customer trust
+    🔁 Returning vs New Customers Analysis
 
 ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(114).png?raw=true)
 
@@ -264,6 +281,7 @@ Business Impact:
 
 
 Description:
+
       This comparison evaluates customer loyalty and revenue contribution.
 
 Results:
@@ -281,6 +299,7 @@ Insights:
     Loyalty directly impacts revenue stability
 
 Business Conclusion:
+
      👉 Retention is more profitable than acquisition
      👉 Loyalty programs and remarketing should be prioritized
 
