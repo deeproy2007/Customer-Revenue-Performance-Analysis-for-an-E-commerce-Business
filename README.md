@@ -54,6 +54,7 @@ Key columns:
 
 ## 📁 Project Structure
 ```
+├── Ecommerce sql screenshot
 ├── images/
 │   ├── dashboard_1.png
 │   ├── dashboard_2.png
