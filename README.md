@@ -80,8 +80,9 @@ Key columns:
 
 
 
-Why this matters:
-Ensures no incorrect revenue values distort KPIs or growth analysis.
+Description:
+This check validates whether any transaction in the dataset has zero or negative revenue.
+The result shows 0 records, which confirms that all revenue values are valid and greater than zero.
 
 2️⃣ Missing Critical Fields
 ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(102).png?raw=true)
@@ -91,8 +92,18 @@ Ensures no incorrect revenue values distort KPIs or growth analysis.
 
 
 
-Why this matters:
-Missing dates break time analysis. Missing customers destroy retention analysis.
+Description:
+This validation checks for missing values in critical columns such as:
+
+Order Date
+
+Revenue
+
+Customer ID
+
+Product or transaction identifiers
+
+The result shows 0 missing records, meaning the dataset is complete.
 
 
 
@@ -107,8 +118,45 @@ Month-over-Month Revenue Trend
 
 
 
-📌 Insight:
-Identifies growth volatility and detects seasonality or revenue drops early.
+Description:
+This table shows:
+
+Monthly revenue
+
+Previous month revenue
+
+Month-over-month (MoM) growth percentage
+
+The MoM growth is calculated using:
+
+((Current Month Revenue - Previous Month Revenue) / Previous Month Revenue) * 100
+
+
+Key Insights:
+
+Revenue shows significant fluctuations, indicating seasonal or demand-based variation.
+
+Highest growth observed in:
+
+May 2023 (+36.75%)
+
+October 2023 (+34.15%)
+
+Sharp declines seen in:
+
+April 2023 (-20.01%)
+
+September 2023 (-32.92%)
+
+Indicates inconsistent sales performance and possible dependency on promotions or seasonal demand.
+
+Business Value:
+
+Helps identify high-performing and low-performing months
+
+Useful for forecasting and budgeting
+
+Supports strategic planning and sales optimization
 
 
 
