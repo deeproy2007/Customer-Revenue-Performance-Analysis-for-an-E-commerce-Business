@@ -319,7 +319,10 @@ Final Insights:
 
 Summary Statistics of Total Amount:
 
-      The above result shows the basic descriptive statistics calculated for the Total_Amount column. The minimum transaction value is 7.87, indicating the smallest recorded amount in the dataset. The maximum          value reaches 22,023.90, highlighting the highest transaction observed. The average (mean) Total_Amount is approximately 983.11, which provides an overall measure of the typical transaction size. These           summary statistics help in understanding the data range, identifying potential outliers, and gaining initial insights into the distribution of transaction values before further analysis.
+
+    The above result shows the basic descriptive statistics calculated for the Total_Amount column. The minimum transaction value is 7.87, indicating the smallest recorded amount in the dataset.
+    The maximum  value reaches 22,023.90, highlighting the highest transaction observed. The average (mean) Total_Amount is approximately 983.11, which provides an overall measure of the typical transaction size. 
+    These summary statistics help in understanding the data range, identifying potential outliers, and gaining initial insights into the distribution of transaction values before further analysis.
  
 - Customer segmentation
 - Discount impact
