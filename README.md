@@ -348,9 +348,11 @@ Libraries used:
 
 Dashboard Overview
 
-This project uses Power BI to analyze sales data and understand customer behavior, revenue distribution, and business performance. The dashboard highlights key metrics such as total sales, average order value, product category performance, customer demographics, and regional sales trends.
+    This project uses Power BI to analyze sales data and understand customer behavior, revenue distribution, and business performance. 
+    The dashboard highlights key metrics such as total sales, average order value, product category performance, customer demographics, and regional sales trends.
 
-The analysis shows that returning customers and the 26–45 age group contribute the majority of revenue, with Electronics emerging as the top-performing product category. Sales are concentrated in a few high-performing cities, and monthly trends indicate seasonal fluctuations.
+    The analysis shows that returning customers and the 26–45 age group contribute the majority of revenue, with Electronics emerging as the top-performing product category.
+    Sales are concentrated in a few high-performing cities, and monthly trends indicate seasonal fluctuations.
 
 Dashboard includes:
 - Total Revenue & Orders
