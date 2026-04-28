@@ -431,7 +431,7 @@ Which customer are valuable vs risky?
 - Add customer lifetime value (CLV)
 - Implement churn analysis
 - Add predictive modeling
-- Automate dashboard refresh
+
 
 ---
 
