@@ -139,12 +139,9 @@ September 2023 (-32.92%)
 Indicates inconsistent sales performance and possible dependency on promotions or seasonal demand.
 
 Business Value:
-
-    Helps identify high-performing and low-performing months
-
-    Useful for forecasting and budgeting
-
-    Supports strategic planning and sales optimization
+Helps identify high-performing and low-performing months
+Useful for forecasting and budgeting
+Supports strategic planning and sales optimization
 
 
 
