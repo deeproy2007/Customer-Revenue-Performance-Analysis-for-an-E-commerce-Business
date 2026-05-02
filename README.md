@@ -94,18 +94,12 @@ Description:
 
 
 Description:
-
-          This validation checks for missing values in critical columns such as:
-
-          Order Date
-
-          Revenue
-
-          Customer ID
-
-          Product or transaction identifiers
- 
-          The result shows 0 missing records, meaning the dataset is complete.
+This validation checks for missing values in critical columns such as:
+Order Date
+Revenue
+Customer ID
+Product or transaction identifiers
+The result shows 0 missing records, meaning the dataset is complete.
 
 
 
