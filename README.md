@@ -82,8 +82,8 @@ Key columns:
 
 Description:
 
-          This check validates whether any transaction in the dataset has zero or negative revenue.
-          The result shows 0 records, which confirms that all revenue values are valid and greater than zero.
+This check validates whether any transaction in the dataset has zero or negative revenue.
+The result shows 0 records, which confirms that all revenue values are valid and greater than zero.
 
 2️⃣ Missing Critical Fields
 ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(102).png?raw=true)
@@ -118,13 +118,10 @@ Month-over-Month Revenue Trend
 
  Description:
  
-        This table shows:
-
-        Monthly revenue
-
-        Previous month revenue
-
-        Month-over-month (MoM) growth percentage
+This table shows:
+Monthly revenue
+Previous month revenue
+Month-over-month (MoM) growth percentage
 
 The MoM growth is calculated using:
 
