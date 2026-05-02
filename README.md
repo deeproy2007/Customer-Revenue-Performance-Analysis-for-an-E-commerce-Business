@@ -129,22 +129,14 @@ The MoM growth is calculated using:
 
 
 Key Insights:
-
-     Revenue shows significant fluctuations, indicating seasonal or demand-based variation.
-
-     Highest growth observed in:
- 
-     May 2023 (+36.75%)
-
-     October 2023 (+34.15%)
-
-     Sharp declines seen in:
-
-     April 2023 (-20.01%)
-
-     September 2023 (-32.92%)
-
-     Indicates inconsistent sales performance and possible dependency on promotions or seasonal demand.
+Revenue shows significant fluctuations, indicating seasonal or demand-based variation.
+Highest growth observed in:
+May 2023 (+36.75%)
+October 2023 (+34.15%)
+Sharp declines seen in:
+April 2023 (-20.01%)
+September 2023 (-32.92%)
+Indicates inconsistent sales performance and possible dependency on promotions or seasonal demand.
 
 Business Value:
 
