@@ -72,7 +72,7 @@ Key columns:
 
 
 1️⃣ Invalid Revenue Check
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(101).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Check%20missing%20or%20critical%20fields.png?raw=true)
 
 
 
