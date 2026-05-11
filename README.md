@@ -157,8 +157,7 @@ Description:
 This analysis compares order volume and revenue performance between discounted and non-discounted purchases.
 
 Insights:
-
-     Discounted orders generate lower total revenue despite higher volume expectations.
+Discounted orders generate lower total revenue despite higher volume expectations.
 
     Revenue per order is almost the same, meaning discounts do NOT significantly increase basket size.
 
