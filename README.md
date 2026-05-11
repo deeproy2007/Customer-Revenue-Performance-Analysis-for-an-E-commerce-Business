@@ -154,8 +154,7 @@ Supports strategic planning and sales optimization
 
 
 Description:
-
-       This analysis compares order volume and revenue performance between discounted and non-discounted purchases.
+This analysis compares order volume and revenue performance between discounted and non-discounted purchases.
 
 Insights:
 
