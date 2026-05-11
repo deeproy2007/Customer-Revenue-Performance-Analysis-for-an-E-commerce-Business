@@ -86,8 +86,7 @@ This check validates whether any transaction in the dataset has zero or negative
 The result shows 0 records, which confirms that all revenue values are valid and greater than zero.
 
 2️⃣ Missing Critical Fields
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(102).png?raw=true)
-
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Check%20negative%20or%20zero%20revenue.png?raw=true)
 
 
 
