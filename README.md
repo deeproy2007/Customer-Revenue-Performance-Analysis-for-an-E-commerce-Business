@@ -56,7 +56,7 @@ Key columns:
 ```
 ├── Ecommerce sql screenshot
 ├── images/
-│   ├── dashboard_1.png
+│   ├── Where is our revenue coming from?.png
 │   ├── dashboard_2.png
 ├── Ecommerce.csv
 ├── ecommerce.sql
