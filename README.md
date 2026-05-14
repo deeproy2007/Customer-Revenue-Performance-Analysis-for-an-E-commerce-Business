@@ -57,7 +57,7 @@ Key columns:
 ├── Ecommerce sql screenshot
 ├── images/
 │   ├── Where is our revenue coming from?.png
-│   ├── dashboard_2.png
+│   ├── Which customers are valuable or risky?.png
 ├── Ecommerce.csv
 ├── ecommerce.sql
 ├── main.ipynb
