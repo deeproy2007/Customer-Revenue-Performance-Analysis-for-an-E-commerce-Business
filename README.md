@@ -347,7 +347,7 @@ Key insights:
 
 Where is our revenue actually coming from?
 
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/image3/Screenshot%20(96).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/image3/Where%20is%20our%20revenue%20coming%20from.png?raw=true)
 
 
 
