@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project presents an end-to-end analysis of an E-commerce dataset using SQL, Python, and Power BI. The goal is to analyze sales performance, customer behavior, and revenue trends to generate actionable business insights.
 
-This project is suitable for internship and entry-level data analyst roles.
 
 ---
 
