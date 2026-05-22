@@ -45,7 +45,7 @@ Key columns:
 
 ## 🛠 Tools & Technologies
 - SQL (MySQL)
-- Python (Pandas, Matplotlib)
+- Python (Numpy, Pandas, Matplotlib)
 - Power BI
 - GitHub
 
