@@ -157,9 +157,9 @@ This analysis compares order volume and revenue performance between discounted a
 Insights:
 Discounted orders generate lower total revenue despite higher volume expectations.
 
-    Revenue per order is almost the same, meaning discounts do NOT significantly increase basket size.
+   Revenue per order is almost the same, meaning discounts do NOT significantly increase basket size.
 
-    Discounts reduce profit margin without strong revenue upside.
+   Discounts reduce profit margin without strong revenue upside.
 
 
 
