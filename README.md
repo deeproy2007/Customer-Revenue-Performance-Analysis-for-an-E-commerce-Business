@@ -363,24 +363,24 @@ Which customer are valuable vs risky?
 
 🧠 Key Business Decisions & Recommendations
 
-    1. Focus on Returning Customers
+   1. Focus on Returning Customers
       Since returning customers generate the majority of revenue, businesses should:
 
       Invest in loyalty programs and personalized offers
 
       Improve post-purchase engagement to increase repeat orders
 
-    2. Target High-Value Age Groups (26–45)
+   2. Target High-Value Age Groups (26–45)
       Marketing campaigns should primarily target the 26–45 age segment, as they contribute the highest spending.
 
-    3. Strengthen Electronics Category
+   3. Strengthen Electronics Category
       Electronics is the top revenue driver. The business can:
 
       Ensure better inventory planning
 
       Protect margins through optimized pricing strategies
 
-    4. Reduce Regional Dependency
+   4. Reduce Regional Dependency
       Revenue is concentrated in a few cities. To reduce risk:
 
       Expand marketing efforts in underperforming cities
