@@ -114,7 +114,7 @@ Month-over-Month Revenue Trend
 
 
 
- Description:
+Analysis:
  
 This table shows:
 Monthly revenue
