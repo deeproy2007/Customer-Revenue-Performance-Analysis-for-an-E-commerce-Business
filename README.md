@@ -79,7 +79,7 @@ Key columns:
 
 
 
-Description:
+Analysis:
 
 This check validates whether any transaction in the dataset has zero or negative revenue.
 The result shows 0 records, which confirms that all revenue values are valid and greater than zero.
@@ -91,7 +91,7 @@ The result shows 0 records, which confirms that all revenue values are valid and
 
 
 
-Description:
+Analysis:
 This validation checks for missing values in critical columns such as:
 Order Date
 Revenue
