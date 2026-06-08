@@ -322,7 +322,7 @@ Libraries used:
 ## 📈 Power BI Dashboard
 
 
-Dashboard Overview
+Dashboard Overview:
 
     This project uses Power BI to analyze sales data and understand customer behavior, revenue distribution, and business performance. 
     The dashboard highlights key metrics such as total sales, average order value, product category performance, customer demographics, and regional sales trends.
