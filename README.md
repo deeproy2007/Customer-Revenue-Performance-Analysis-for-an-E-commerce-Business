@@ -19,6 +19,7 @@ This project answer key questions such as:
 - Which customers are most valuable?
 - How do sales vary by time and category?
 - Are returning customers more profitable?
+- Month Over Month revenue Groth
 
 ---
 
