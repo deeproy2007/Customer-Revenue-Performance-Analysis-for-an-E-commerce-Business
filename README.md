@@ -20,6 +20,7 @@ This project answer key questions such as:
 - How do sales vary by time and category?
 - Are returning customers more profitable?
 - Month Over Month revenue Groth
+- Total Orders, AOV, Revenue based on discount_flag 
 
 ---
 
