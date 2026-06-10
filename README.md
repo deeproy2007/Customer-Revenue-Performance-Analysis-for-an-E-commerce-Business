@@ -1,7 +1,7 @@
 # 📊 E-Commerce Sales Analysis & Dashboard Project
 
 ## 📌 Project Overview
-This project presents an end-to-end analysis of an E-commerce dataset using SQL, Python, and Power BI. The goal is to analyze sales performance, customer behavior, and revenue trends to generate actionable business insights.
+This project Presents an end-to-end analysis of an E-commerce dataset using SQL, Python, and Power BI. The goal is to analyze sales performance, customer behavior, and revenue trends to generate actionable business insights.
 
 
 ---
