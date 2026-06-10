@@ -7,7 +7,7 @@ This project Presents an end-to-end analysis of an E-commerce dataset using SQL,
 ---
 
 ## 📉 Business Problem
-E-commerce businesses often struggle to:
+E-commerce businesses Often struggle to:
 - Identify revenue-generating products and customers
 - Understand sales fluctuations
 - Track customer retention
