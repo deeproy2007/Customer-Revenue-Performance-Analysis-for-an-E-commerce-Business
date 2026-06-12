@@ -109,7 +109,7 @@ Month-over-Month Revenue Trend
 
 
 
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(108).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Revenue%20&%20Growth%20Analysis%20Month-over-Month%20Revenue%20Trend.png?raw=true)
 
 
 
