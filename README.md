@@ -146,7 +146,7 @@ Supports strategic planning and sales optimization
 
 
 🛒 Discount Effectiveness Analysis
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(109).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Discount%20Effectiveness%20Analysis.png?raw=true)
 
 
 
