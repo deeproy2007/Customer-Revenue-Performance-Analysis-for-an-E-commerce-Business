@@ -406,7 +406,7 @@ Which customer are valuable vs risky?
 ---
 
 ## 🔮 Future Improvements
-- Add customer lifetime value (CLV)
+- Add Customer lifetime value (CLV)
 - Implement churn analysis
 - Add predictive modeling
 
