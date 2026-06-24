@@ -415,4 +415,4 @@ Which customer are valuable vs risky?
 
 ## 👤 Author
 **Deep Roy**  
-**Aspiring Data Analyst**  
+**Data Analyst**  
