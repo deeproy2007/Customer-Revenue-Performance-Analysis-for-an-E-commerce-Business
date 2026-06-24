@@ -8,7 +8,7 @@ This project help Ecommerce businesses to analyze sales performance, customer be
 
 ## 📉 Business Problem
 E-commerce businesses Often struggle to:
-- Identify revenue-generating products and customers
+- Identify Revenue-generating products and customers
 - Understand sales fluctuations
 - Track customer retention
 - Analyze regional and category performance
