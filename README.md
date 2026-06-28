@@ -31,7 +31,7 @@ The dataset includes:
 - Sales and discount data
 - Delivery and rating information
 
-Key columns:
+Key Columns:
 - Order_ID
 - Date
 - Customer_ID
