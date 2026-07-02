@@ -14,7 +14,7 @@ E-commerce businesses Often struggle to:
 - Analyze regional and category performance
 - Monitor business KPIs
 
-This project answer key questions such as:
+This Project Answer Key Questions Such As:
 - Where is revenue coming from?
 - Which customers are most valuable?
 - How do sales vary by time and category?
