@@ -169,7 +169,7 @@ Discounted orders generate lower total revenue despite higher volume expectation
 💳 Revenue by Payment Method
 
 
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(113).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Which%20device%20type%20generates%20higher%20revenue%20and%20order%20volume%3F.png?raw=true)
 
 
 
