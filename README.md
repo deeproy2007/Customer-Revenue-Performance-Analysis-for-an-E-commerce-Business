@@ -205,7 +205,7 @@ Business Impact:
 
 🚚 Delivery Time vs Customer Rating
 
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(112).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Does%20delivery%20time%20affect%20customer%20ratings%3F.png?raw=true)
 
 
 
