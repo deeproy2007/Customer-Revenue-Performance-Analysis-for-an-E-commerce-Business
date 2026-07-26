@@ -1,7 +1,7 @@
 # 📊 E-Commerce Sales Analysis & Dashboard Project
 
 ## 📌 Project Overview
-This project help Ecommerce businesses to analyze sales performance, customer behavior, and revenue trends to generate actionable business insights.
+This project help Ecommerce businesses to analyze sales performance, customer behavior, and revenue trends to generate actionable business insights.And this project solve the top revenue performance from customers,product to help choss valuble customer and product this can help the company reduce retantion and returned product.
 
 
 ---
