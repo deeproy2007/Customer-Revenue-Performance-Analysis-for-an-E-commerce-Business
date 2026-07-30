@@ -13,7 +13,7 @@ E-commerce businesses Often struggle to:
 - Track customer retention
 - Analyze regional and category performance
 - Monitor business KPIs
-
+  
 This Project Answer Key Questions Such As:
 - Where is revenue coming from?
 - Which customers are most valuable?
