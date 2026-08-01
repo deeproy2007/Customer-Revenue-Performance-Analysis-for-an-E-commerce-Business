@@ -261,7 +261,7 @@ Business Conclusion:
 
 📊 Overall Business Summary
 
- ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(116).png?raw=true)
+ ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/What%20KPIs%20should%20leadership%20track%3F.png?raw=true)
 
 
 
