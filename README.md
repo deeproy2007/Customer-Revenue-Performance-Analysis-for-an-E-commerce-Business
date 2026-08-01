@@ -291,7 +291,7 @@ Final Insights:
  📊 Key KPIs Tracked
 
 
- ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(120).png?raw=true)
+ ![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Outliers.png?raw=true)
 
 
 
