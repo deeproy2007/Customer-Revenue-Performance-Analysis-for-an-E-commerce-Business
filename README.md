@@ -231,7 +231,7 @@ Description:
 🔁 Returning vs New Customers Analysis
 
 
-![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/Screenshot%20(114).png?raw=true)
+![image alt](https://github.com/deeproy2007/Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business/blob/main/Ecommerce%20sql%20screenshot/%20Are%20repeat%20customers%20contributing%20more%20revenue%3F.png?raw=true)
 
 
 
